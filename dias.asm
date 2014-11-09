@@ -1,7 +1,7 @@
 ; Proyecto de arquitectura de computadores
 ;
-;	-Desarrollador: José Gustavo González
-; 	-Carnet: 201269684
+;	-Desarrolladores: José Gustavo González-Luis Roberto Rojas Arroyo
+; 	-Carnet: 201269684-2013098480
 ;	
 ;
 ; ---------------------------------------------------------------------------------------------------------------------------
