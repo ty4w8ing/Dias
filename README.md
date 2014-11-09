@@ -8,6 +8,10 @@ Escuela de Computación.
 
 Arquitectura de Computadores.
 
+Desarrolladores: José Gustavo González-Luis Roberto Rojas Arroyo
+
+Carnet: 201269684-2013098480
+
 Tarea #5
 
 Esta aplicación muestra si un año es bisiesto y determina el día de la semana en el cual se celebró dicho día.
