@@ -6,5 +6,4 @@ Aplicación que muestra los días de la semana
 =====
 
 Para poser ser utilizado debe de ser introducidas las fechas en el formato DD MM AAAA.
-Ejemplo:  03 12 1989
-          12 01 236
+Ejemplo:  03 12 1989                    12 01 236
