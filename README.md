@@ -1,9 +1,14 @@
 Dias
 ====
+![alt tag](http://www.pvolcan2.odd.ucr.ac.cr/wp-content/uploads/2011/12/logo_tec.jpg)
 
-Aplicación que muestra los días de la semana
+Tecnológico de Costa Rica.
+Escuela de Computación.
+Arquitectura de Computadores.
+Tarea #5
+
+Esta aplicación muestra si un año es bisiesto y determina el día de la semana en el cual se celebró dicho día.
 
 =====
 
-Para poser ser utilizado debe de ser introducidas las fechas en el formato DD MM AAAA.
-Ejemplo:  "03 12 1989" o de esta otra manera "12 01 236"
+
